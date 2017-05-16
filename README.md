@@ -1,5 +1,5 @@
-# React-Markdown
-
+# React-Markdown [![Build Status](https://travis-ci.org/Loperiane/React-Markdown.svg?branch=master)](https://travis-ci.org/Loperiane/React-Markdown)
+## This project is based on a ReactJS Tutoriel on Udemy
 #### Markdown editor in react
 
 ##### Prerequisites
